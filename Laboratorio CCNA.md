@@ -1,6 +1,12 @@
 # Laboratorio CCNA
 ## Índice y Estructura Principal
+- [Requerimientos](#requirimientos)
 - [Topología en GNS3](#topología-en-gns3)
+- [Configuración Etherchannel](#etherchannel)
+    * [L3SW1](#l3sw1)
+    * [L3SW2](#l3sw2)
+    * [L3SW3](#l3sw3)
+    * [L3SW4](#l3sw4)
 ## Requirimientos
 ### 1. IOSv Cisco
 ### Switch Multilayer
